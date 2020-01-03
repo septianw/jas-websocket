@@ -1,0 +1,28 @@
+[
+  {
+    id: 5,
+    items: [
+      {
+        qty: 4,
+        name: "Chicken tebuireng."
+      },{
+        qty: 2,
+        name: "Ayam geprek."
+      }
+    ]
+  },{
+    id: 6,
+    items: [
+      {
+        qty: 2,
+        name: "Cordon bleu."
+      },{
+        qty: 3,
+        name: "Chicken tebuireng"
+      },{
+        qty: 5,
+        name: "Teh hangat"
+      }
+    ]
+  }
+]
